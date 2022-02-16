@@ -1,0 +1,1 @@
+This will be a basic javascript project that will be mostly for practice.
